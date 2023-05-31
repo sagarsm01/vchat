@@ -1,0 +1,17 @@
+Prompt:Tell me about the Ferrari 812 Superfast.
+Response:The Ferrari 812 Superfast is a high-performance car with a 6.5L V12 engine capable of producing 789 horsepower and 530 lb-ft of torque. It uses a 7-speed automatic transmission system and operates on a rear-wheel-drive (RWD) drivetrain. It offers fuel efficiency of 13/20 mpg. It's a 2-door model and comes with a price tag of approximately $366,712. The model year range is from 2018 to the present, and it's designed as a coupe.
+
+Prompt:What can you tell me about the Mahindra XUV300?
+Response:The Mahindra XUV300 is a compact SUV that is powered by either a 1.2L Turbo Petrol or a 1.5L Turbo Diesel engine, generating a horsepower of 109 hp. It offers a torque of 200 Nm. It comes with 6-speed Manual and 6-speed AMT transmission options and a front-wheel-drive (FWD) drivetrain. The XUV300 provides fuel efficiency of between 13-20 km/l. The SUV has 5 doors and is priced between Rs. 7.96 - 13.33 Lakh. Its model years range from 2019 to the present. 
+
+Prompt:Give me information about the Toyota Camry.
+Response:The Toyota Camry is a sedan that comes with either a 2.5L 4-cylinder or a 3.5L V6 engine, producing between 203-301 horsepower and 182-267 lb-ft of torque. It has an 8-speed automatic transmission and a front-wheel-drive (FWD) drivetrain. The Camry's fuel efficiency is between 26-34 mpg. It's a 4-door model, and its price range is from $25,045 to $35,130. It has been manufactured from 2018 to 2021.
+
+Prompt:Can you describe the Ford Mustang?
+Response:The Ford Mustang is a sports car available as a coupe or convertible. It is powered by a gas V6/V8 engine producing between 310 and 760 horsepower and 350 to 625 lb-ft of torque. The Mustang uses either a 6-speed manual or a 10-speed automatic transmission and runs on a rear-wheel-drive (RWD) drivetrain. It achieves a fuel economy of 16-21 mpg city and 24-32 mpg highway. It has 2 doors and costs between $28,450 and $61,600. This model has been produced from 2015 to 2021.
+
+Prompt:What do you know about the Chevrolet Bolt EV?
+Response:The Chevrolet Bolt EV is an electric hatchback. It provides 200 horsepower and 266 lb-ft of torque. Being an electric vehicle, it has an impressive efficiency of 118 mpg-e. The Bolt EV is a 4-door model and is priced between $36,500 and $41,700. This model has been in production since 2017 up to 2021. As it is an electric vehicle, it doesn't use traditional internal combustion cylinders.
+
+Prompt:Tell me about the Nissan GT-R.
+Response:The Nissan GT-R is a high-performance sports car powered by a gas 6-cylinder engine, delivering between 565-600 horsepower and 467-481 lb-ft of torque. It uses a 6-speed automatic transmission and comes with an all-wheel-drive (AWD) drivetrain. Its fuel efficiency ranges
