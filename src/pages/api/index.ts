@@ -9,7 +9,8 @@ export default async function handler(
   if(test) {
     res.status(500).json({ error: 'An error occurred' });
   } else {
-    const url = `http://b316-34-172-139-20.ngrok-free.app/submit-prompt`;
+    const uri = `http://1f77-34-142-228-179.ngrok-free.app`;
+    const url = `${uri}/submit-prompt`;
     try {
       let config: any = {
         method: 'post',
