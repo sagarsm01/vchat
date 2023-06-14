@@ -102,13 +102,13 @@ const Chatbox = () => {
                                         {chat.user ? 'User: ' : 'Xiri:'}
                                         {chat.message}
                                     </ChatMessageText>
-                                    <div>
+                                    {/* <div>
                                         {
                                             chat.img && (
                                                 <ChatMessageImage src={chat.img} />
                                             )
                                         }
-                                    </div>
+                                    </div> */}
                                 </ChatMessage>
                             ))}
 
